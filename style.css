@@ -1,0 +1,31 @@
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+}
+
+
+section {
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+}
+
+.navigation-buttons {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px;
+  margin: 0 5px;
+  cursor: pointer;
+}
